@@ -1,6 +1,6 @@
 # Yolov5를 이용한 식재료 객체탐지 모델
 상명대학교 SW-PBL 프로젝트 <br />
-- email address : opea5954@gmail.com <br />
+- email address : kwn1996kr@naver.com <br />
 - Demo Video : https://youtu.be/o9u2amtgCto <br />
 ![image](https://user-images.githubusercontent.com/68915940/120200196-06ff2c00-c25f-11eb-87b8-62c5639d7649.png)
 ![image](https://user-images.githubusercontent.com/68915940/120200207-09618600-c25f-11eb-903f-284e85cecf99.png)
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ## Android 연동
 1. yolov5 app 변경
 yolov5의 app의 내용을 
-https://github.com/Q-100/ingredients-classification.git 로 변경
+https://github.com/kwn1996kr/pbl.git 로 변경
 
 2. assets에 Model Training에서 학습한 best-fp16.tflite 파일 저장
 또는 
@@ -75,7 +75,6 @@ https://drive.google.com/file/d/1lvwR8SvFC8moYsfMrxvUV1SeIQBPFx1L/view?usp=shari
 
 ## 코드설명
 DetectorActivity.java
-
 
 
 
