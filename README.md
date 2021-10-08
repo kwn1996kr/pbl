@@ -52,7 +52,7 @@ pip install -r requirements.txt
 !python train.py --img 416 --batch 16 --epochs 300 --data /content/data.yaml --cfg ./models/yolov5s.yaml --weights yolov5s.pt --name food_ingredients_model
 ```
 
-(요기부턴 안드로이드 연동)
+(요기부턴 안드로이드 연동)  
 4. https://github.com/zldrobit/yolov5 이동
  models/tf.py 파일을 colab의 /content/models/ 디렉터리에 저장
  
